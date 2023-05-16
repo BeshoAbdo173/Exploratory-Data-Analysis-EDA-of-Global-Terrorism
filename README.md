@@ -9,15 +9,7 @@ Link for full story can be found [here.](https://public.tableau.com/app/profile/
 
 ## Python environment requirements 
 
-```http
+```
   pip install -r requirements.txt
 ```
 
-
-.cm-strong, .cm-em {
-  color: white !important;
-}
-
-.cm-strong, .cm-em, .cm-comment {
-  color: white !important;
-}
