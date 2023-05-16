@@ -8,10 +8,10 @@ Playing the role of Security/Defence Analyst I performed EDA on the Global Terro
 Link for full story can be found [here.](https://public.tableau.com/app/profile/bishoy.aboelsaad/viz/ExploratoryDataAnalysis-TerrorismGRIPTask4/Story1) 
 
 
-## Python environment requirements
+## Python environment requirements 
 
 ```http
-  
+  pip install -r requirements.txt
 ```
 
 
