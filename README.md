@@ -13,7 +13,9 @@ Link for full story can be found [here.](https://public.tableau.com/app/profile/
 ```http
 12 pip
 ```
-
+```http
+  pip install -r requirements.txt
+```
 
 
 
