@@ -10,6 +10,6 @@ Link for full story can be found [here.](https://public.tableau.com/app/profile/
 ## Python environment requirements 
 
 ```
-  **pip install -r requirements.txt**
+  *pip install -r requirements.txt*
 ```
 
